@@ -1,0 +1,19 @@
+.form{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top:40%;
+    left:40%;
+}
+.form input{
+    box-shadow: 0 0 7px #2fdfe1;
+}
+.form input:hover{
+    box-shadow: 0 0 20px #2fdfe1;
+}
+.form input{
+    border-radius: 5px;
+    width: 200px;
+    height:30px;
+    margin-left: 50px;
+}
